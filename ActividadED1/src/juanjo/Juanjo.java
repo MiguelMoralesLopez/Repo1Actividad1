@@ -9,6 +9,11 @@ public class Juanjo {
 	String hobbie3 = "\n *Irme de cañing";
 
 	System.out.println("Mis hobbies son : " + hobbie1 + hobbie2 + hobbie3 );
+	System.out.println("Mis tres comidas favoritas son : ");
+	System.out.println("Macarrones");
+	System.out.println("Hamburguesa");
+	System.out.println("Pollo con cerveza");
+	
 	}
 
 }
