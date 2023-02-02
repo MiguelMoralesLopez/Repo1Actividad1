@@ -11,7 +11,12 @@ public class Miguel {
 		String hob3 = "Cine";
 		System.out.println(hob1);
 		System.out.println(hob2);
-		System.out.println(hob3);
+		System.out.println(hob3);	
+		System.out.println("Mis tres comidas favoritas son:");
+		System.out.println("Sushi");
+		System.out.println("Ramen");
+		System.out.println("Paella");
+		
 		
 	}
 
